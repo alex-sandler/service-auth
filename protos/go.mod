@@ -1,4 +1,4 @@
-module proto
+module github.com/alex-sandler/service-auth/protos
 
 go 1.23.5
 
